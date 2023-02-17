@@ -18,6 +18,7 @@ Each PCR plate contains 92 individuals, plus 2 blanks (to check for lab contamin
 
 A library is formed by 4 PCR plates, i.e. 368 individuals. These 4 PCR plates can be seen as a *superplate* with 16 rows and 24 columns.
 
+|  |  |
 | --- | --- |
 | Plate 1 | Plate 2 |
 | Plate 3 | Plate 4 |
