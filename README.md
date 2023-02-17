@@ -26,3 +26,10 @@ A library is formed by 4 PCR plates, i.e. 368 individuals. These 4 PCR plates ca
 The primers for each row and column are marked with tags. The forward primer marks the row, and the reverse primer the column.
 
 For example, the sample in the F2 well of the first (upper left) plate was amplified using the primers COIBF3_**6** and COIBR2_**2**. The sample in the E4 well of the fourth (lower right) plate will be amplified using the primers COIBF3_**13** and COIBR2_**16**.
+
+The primers have these sequences:
+
+| Name | Direction | Sequence |
+| --- | --- | --- |
+| **COIBF3_*x*** | Forward | `NxxxxxxCCHGAYATRGCHTTYCCHCG` |
+| **COIBR2_*x*** | Reverse | `NxxxxxxTCDGGRTGNCCRAARAAYCA` |
